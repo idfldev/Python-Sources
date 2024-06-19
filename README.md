@@ -1,2 +1,8 @@
 # Python-Sources
-All Python sources code example.
+All Python source code examples.
+
+## All branches to search:
+- PyExercises
+- PyExamples
+- PyProjects
+- PyPatterns
