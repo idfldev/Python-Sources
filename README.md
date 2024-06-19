@@ -1,7 +1,13 @@
 # Python-Sources
 All Python source code examples.
 
-### All of the code examples in this source study how it works.
+## All branches to search:
+- PyExercises
+- PyExamples
+- PyProjects
+- PyPatterns
+
+#### All of the code examples in this source study how it works.
 ```
 - The full set of commands used in this example of how to push a local branch remotely are as follows:
 - github@branch/c/remote/push  (new-branch)
