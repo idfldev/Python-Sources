@@ -11,7 +11,7 @@ All Python source code examples.
 ```
 - The full set of commands used in this example of how to push a local branch remotely are as follows:
 - github@branch/c/remote/push  (new-branch)
-- git clone https://github.com/idfldev/My-Code-Learn.git
+- git clone https://github.com/idfldev/Python-Sources.git
 - cd git*
 - git checkout -b new-branch
 
